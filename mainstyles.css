@@ -1,0 +1,22 @@
+body{
+    margin: 25px;
+    font-family: "game font";
+    background-color: black;
+    color: aqua;
+}
+h1{
+    font-size: 50;
+}
+#outputTest{
+    position: absolute;
+    font-size: 25px;
+    /*display: flexbox;*/
+    text-align: center;
+    margin-top: 50px;
+    background-color: green;
+    user-select: none;
+}
+@font-face {
+    font-family: "game font";
+    src: url(OffBit-DotBold.ttf);
+}
